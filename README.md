@@ -2,6 +2,8 @@
 
 This is an implementation for calculating heat flux using Machine Learning Potentials (MLPs) within LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator). This implementation enables the accurate calculation of per-atom stress with machine learning potentials.
 
+I have personally tested and confirmed to work for **LAMMPS ver(29 Aug 2024)**.
+
 ---
 
 ## File Descriptions
